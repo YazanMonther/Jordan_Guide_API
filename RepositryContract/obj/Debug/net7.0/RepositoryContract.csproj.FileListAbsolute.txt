@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\bin\Debug\net7.0\RepositoryContract.deps.json
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\bin\Debug\net7.0\RepositoryContract.dll
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\bin\Debug\net7.0\RepositoryContract.pdb
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\bin\Debug\net7.0\Entites.dll
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\bin\Debug\net7.0\Entites.pdb
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\obj\Debug\net7.0\RepositoryContract.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\obj\Debug\net7.0\RepositoryContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\obj\Debug\net7.0\RepositoryContract.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\obj\Debug\net7.0\RepositoryContract.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\obj\Debug\net7.0\RepositoryContract.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\obj\Debug\net7.0\RepositoryContract.csproj.CopyComplete
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\obj\Debug\net7.0\RepositoryContract.dll
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\obj\Debug\net7.0\refint\RepositoryContract.dll
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\obj\Debug\net7.0\RepositoryContract.pdb
+C:\Users\DELL\source\repos\TourimApi\RepositryContract\obj\Debug\net7.0\ref\RepositoryContract.dll

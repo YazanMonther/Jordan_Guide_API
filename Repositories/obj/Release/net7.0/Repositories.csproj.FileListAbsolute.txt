@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\TourimApi\Repositories\bin\Release\net7.0\Repositories.deps.json
+C:\Users\DELL\source\repos\TourimApi\Repositories\bin\Release\net7.0\Repositories.dll
+C:\Users\DELL\source\repos\TourimApi\Repositories\bin\Release\net7.0\Repositories.pdb
+C:\Users\DELL\source\repos\TourimApi\Repositories\bin\Release\net7.0\Entites.dll
+C:\Users\DELL\source\repos\TourimApi\Repositories\bin\Release\net7.0\RepositoryContract.dll
+C:\Users\DELL\source\repos\TourimApi\Repositories\bin\Release\net7.0\RepositoryContract.pdb
+C:\Users\DELL\source\repos\TourimApi\Repositories\bin\Release\net7.0\Entites.pdb
+C:\Users\DELL\source\repos\TourimApi\Repositories\obj\Release\net7.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TourimApi\Repositories\obj\Release\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TourimApi\Repositories\obj\Release\net7.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TourimApi\Repositories\obj\Release\net7.0\Repositories.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TourimApi\Repositories\obj\Release\net7.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TourimApi\Repositories\obj\Release\net7.0\Repositories.csproj.CopyComplete
+C:\Users\DELL\source\repos\TourimApi\Repositories\obj\Release\net7.0\Repositories.dll
+C:\Users\DELL\source\repos\TourimApi\Repositories\obj\Release\net7.0\refint\Repositories.dll
+C:\Users\DELL\source\repos\TourimApi\Repositories\obj\Release\net7.0\Repositories.pdb
+C:\Users\DELL\source\repos\TourimApi\Repositories\obj\Release\net7.0\ref\Repositories.dll

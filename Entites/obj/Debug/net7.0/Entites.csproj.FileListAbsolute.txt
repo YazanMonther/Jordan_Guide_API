@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\TourimApi\Entites\obj\Debug\net7.0\Entites.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TourimApi\Entites\obj\Debug\net7.0\Entites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TourimApi\Entites\obj\Debug\net7.0\Entites.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TourimApi\Entites\obj\Debug\net7.0\Entites.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TourimApi\Entites\obj\Debug\net7.0\Entites.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TourimApi\Entites\bin\Debug\net7.0\Entites.deps.json
+C:\Users\DELL\source\repos\TourimApi\Entites\bin\Debug\net7.0\Entites.runtimeconfig.json
+C:\Users\DELL\source\repos\TourimApi\Entites\bin\Debug\net7.0\Entites.dll
+C:\Users\DELL\source\repos\TourimApi\Entites\bin\Debug\net7.0\Entites.pdb
+C:\Users\DELL\source\repos\TourimApi\Entites\obj\Debug\net7.0\Entites.dll
+C:\Users\DELL\source\repos\TourimApi\Entites\obj\Debug\net7.0\refint\Entites.dll
+C:\Users\DELL\source\repos\TourimApi\Entites\obj\Debug\net7.0\Entites.pdb
+C:\Users\DELL\source\repos\TourimApi\Entites\obj\Debug\net7.0\Entites.genruntimeconfig.cache
+C:\Users\DELL\source\repos\TourimApi\Entites\obj\Debug\net7.0\ref\Entites.dll

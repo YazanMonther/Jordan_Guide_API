@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\bin\Release\net7.0\ServiceContract.deps.json
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\bin\Release\net7.0\ServiceContract.dll
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\bin\Release\net7.0\ServiceContract.pdb
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\bin\Release\net7.0\Entites.dll
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\bin\Release\net7.0\Entites.pdb
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\obj\Release\net7.0\ServiceContract.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\obj\Release\net7.0\ServiceContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\obj\Release\net7.0\ServiceContract.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\obj\Release\net7.0\ServiceContract.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\obj\Release\net7.0\ServiceContract.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\obj\Release\net7.0\ServiceContract.csproj.CopyComplete
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\obj\Release\net7.0\ServiceContract.dll
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\obj\Release\net7.0\refint\ServiceContract.dll
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\obj\Release\net7.0\ServiceContract.pdb
+C:\Users\DELL\source\repos\TourimApi\ServiceContract\obj\Release\net7.0\ref\ServiceContract.dll

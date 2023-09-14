@@ -1,0 +1,6 @@
+C:\Users\DELL\source\repos\TourimApi\TourismApiTests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\DELL\source\repos\TourimApi\TourismApiTests\obj\Debug\net7.0\TourismApiTests.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TourimApi\TourismApiTests\obj\Debug\net7.0\TourismApiTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TourimApi\TourismApiTests\obj\Debug\net7.0\TourismApiTests.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TourimApi\TourismApiTests\obj\Debug\net7.0\TourismApiTests.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TourimApi\TourismApiTests\obj\Debug\net7.0\TourismApiTests.csproj.CoreCompileInputs.cache
