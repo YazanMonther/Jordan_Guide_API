@@ -9,6 +9,7 @@ using Entites.Identity;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
+// yazaaaaaaaan
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
